@@ -1,0 +1,10 @@
+name = "mkemortgage"
+type = "webpack"
+account_id = "a510ee8172e08905d6e85ddda957f210"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "workers-site"
+entry-point = "workers-site"
